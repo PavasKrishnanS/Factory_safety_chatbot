@@ -13,7 +13,7 @@ It combines a *Small Language Model* (Gemma 3 latest, via [Ollama](https://ollam
 
 ## 🚩 Why This Project?
 
-- **Real-World Impact:** Quickly answer vital safety questions from your *own* factory manuals.
+- **Real-World Impact:** Quickly answer vital safety questions from our *own* factory manuals.
 - **Modern & Private:** No cloud. All LLM/RAG runs locally, perfect for confidential data.
 - **Recruiter Appeal:** Full-stack AI: PDF → chunks → embedding → retrieval → LLM → web UI.
 
@@ -54,7 +54,7 @@ It combines a *Small Language Model* (Gemma 3 latest, via [Ollama](https://ollam
 - **Embeddings:** SentenceTransformers (`all-MiniLM-L6-v2`)
 - **PDF parsing:** pdfplumber
 - **Frontend:** Streamlit
-- **Custom ingestion pipeline for your safety PDFs**
+  
 
 ## 📦 Setup Instructions
 
