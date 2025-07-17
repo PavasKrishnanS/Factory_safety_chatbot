@@ -6,8 +6,8 @@
 ---
 
 **Factory Safety Chatbot** is a cutting-edge, Retrieval-Augmented Generation (RAG) system for answering factory/industrial safety questions—with local deployment and document-grounded answers.  
-It combines a *Small Language Model* (Gemma 3B, via [Ollama](https://ollama.com/)), vector search ([ChromaDB](https://www.trychroma.com/)), and a Streamlit web app.  
-Recruiters: **This project proves real-world AI engineering + privacy best-practices (no big cloud LLMs!)**
+It combines a *Small Language Model* (Gemma 3 latest, via [Ollama](https://ollama.com/)), vector search ([ChromaDB](https://www.trychroma.com/)), and a Streamlit web app.  
+       **This project proves real-world AI engineering + privacy best-practices (no big cloud LLMs!)**
 
 ---
 
